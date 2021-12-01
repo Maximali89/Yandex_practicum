@@ -12,7 +12,7 @@ There are two types of data available for each advertiseent:
 ### Data preprocessing
 
 * Determination and filling of missing values (description, determination of possible reasons for the appearance, development of a scheme for filling in gaps).
-* Data types replacement
+* Data types conversion
 * Auxiliary data calculation (price per sq m, living space to total area ratio, etc.)
 * Categorization by total number of floor in the advertisements
 
