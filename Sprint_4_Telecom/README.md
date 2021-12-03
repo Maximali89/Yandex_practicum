@@ -23,7 +23,7 @@ There was a need for a preliminary analysis of mobile plans for a small sample o
 * Histograms plotting and distribuition descritpion
 
 ### Testing of hypotheses
-Testing of hypotheses about the he equality of average revenue for different mobile plans and regions.
+Testing of hypotheses about the equality of average revenue for different mobile plans and regions.
 * Formulation of the null and alternative hypothesis
 * Determination of the criteria for hypothesis testing
 
