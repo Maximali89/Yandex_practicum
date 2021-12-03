@@ -1,6 +1,6 @@
 ## A study of an airline data
 
-*Tech stack used: **Python, Pandas, Matplotlib, Seaborn, SQL, SciPy, hypotheses testing**
+*Tech stack used: **Python, Pandas, Matplotlib, Seaborn, SQL, SciPy, hypotheses testing***
 
 ### Description of the project
 
