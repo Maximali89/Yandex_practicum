@@ -1,5 +1,5 @@
 ## A study of the reliability of borrowers based on statistics on the solvency of the bank's clients.
-***Tools used: Python, Pandas.***
+***Tech stack used: Python, Pandas.***
 
 ### Description of the project
 
