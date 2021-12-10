@@ -21,11 +21,5 @@ To build a credit scoring model (a system that assesses the ability of a potenti
 
 ### General conclusion
 
-All categories affect the timely loan repayment.
-
-* Marital status - 32.6%
-* Income level - 28.2%
-* Number of children - 23.1%
-* Purposes of the loan - 22.8%
-
-In conclusion more attention should be paid to the category Marital status.
+The dependence of loan repayment on the presence of children, marital status, income level, loan purpose is minimal and fluctuates within 2% of the total volume of debts 8.8%
+There is a slightly larger dependence on the marital status, where unmarried clients have a 10% risk of not repaying the loan in time, whereas widowed clients' risk is only 6.5%
