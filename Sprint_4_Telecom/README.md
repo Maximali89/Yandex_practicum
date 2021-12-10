@@ -1,4 +1,4 @@
-## Determination of a profitable mobile plan for a telecom company pased on customer data
+## Determination of a profitable mobile plan for a telecom company based on customer data
 
 *Tech stack used: Python, Pandas, Matplotlib, Seaborn, NumPy, SciPy, descriptive statistics, statistical hypothesis testing*
 
