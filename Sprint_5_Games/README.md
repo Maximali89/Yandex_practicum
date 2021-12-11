@@ -16,7 +16,7 @@ Based on open data on the sales of computer games over the past 30 years, an ana
 * Determination of the suitable research period
   * Game sales by year
   * Analysis of the "lifetime" of gaming platforms
-* Identifying top selling gaming platforms
+* Identifying top-selling gaming platforms
 * Statistical analysis of global game sales by platform
   * Impact of critics' and users' reviews on sales (building scatterplots, calculating correlations)
 * Determination of TOP selling genres
