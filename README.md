@@ -9,4 +9,4 @@
 4. Combination project. A study of the video games market based on 30-years sales data and users and expert assessments
 * [Sprint_5_Games](https://github.com/Maximali89/Yandex_practicum/tree/main/Sprint_5_Games)
 5. Data collection and storage. A study of an airline data
-* [Sprint_6_Airlines](https://github.com/Maximali89/Yandex_practicum/tree/main/Sprint_6_Airlines)
+* [Sprint_6_Airline](https://github.com/Maximali89/Yandex_practicum/tree/main/Sprint_6_Airline)
