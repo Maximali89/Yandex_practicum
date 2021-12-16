@@ -12,4 +12,4 @@
 * `Other_sales` - Sales in other countries (millions of copies sold)
 * `Critic_Score` - Score of game critics (max. 100)
 * `User_Score` - Score of gamers (max. 10)
-* `Rating` - ESRB (Entertainment Software Rating Board) rating. This association determines the rating of computer games and assigns the ghames to an appropriate age category.
+* `Rating` - ESRB (Entertainment Software Rating Board) rating. This association determines the rating of computer games and assigns the games to an appropriate age category.
