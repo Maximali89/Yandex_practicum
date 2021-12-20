@@ -63,4 +63,6 @@ After excluding the abnormally expensive purchases from the analysis, it turned 
 
 1. Stop the test
 2. Register the presence of statistically significant differences in conversion between groups based on raw data and after filtering the abnormal data.
-3. 
+3. Register that the converison in group B is between 15-17% higher of that in group A.
+4. Register the absence of a statistically significant difference in the mean bill between the groups in both variants of the analysis.
+5. Register the absence of changes in the average bill values within a month of observation after data filtering.
