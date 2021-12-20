@@ -18,4 +18,6 @@
 
 * `transactionId` — order ID
 * `visitorId` — ID of the user who made the order
-* 
+* `date` — date of the order placement
+* `revenue` — order's revenue
+* `group` — the A / B test group that the order fell into
