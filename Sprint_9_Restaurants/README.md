@@ -70,20 +70,29 @@ The number of seats depends on the area of the city.
 **Pros:**
 
 1. **Smaller competition:**
+
     * The central area has the most streets with one establishment. Further on the list are the Eastern districts of Moscow.
     * There are generally fewer establishments in the Eastern districts than in other districts.
+
 2. **Facility type and number of seats:**
+
     * A cafe, as a separate facility, assumes its own limited area. Positioning it in shopping centers or food courts will make it difficult to organize it from a technical point of view - there is no "own" territory for working with guests, and therefore there is no need for waiters.
     * The number of seats 20-50 is optimal for constant traffic, and therefore the work of waiters. If there are 0-20 seats, then the establishment is supposed to work with the flow of guests taking the food "take away".
+
 3. **Chain business model brings more profit due to unrealized procurement and scalability of business solutions**
 
 **Cons:**
 
 1. **Cost:**
+
     * A separate space is an expensive solution, especially in the Central District
     * Chain business model requires a large initial investment
+
 2. **Restrictions on the number of places:**
+
     * Number of seats 0-10 - the option of working at food courts in a shopping center, etc. a cheaper option for launching a project. But it carries material risks, and it is in such an "unlimited" territory that one cannot be confident in the anti-vandal properties of the robot. In any case, not at the initial stage of project development. Until the system of working in a confined space has been worked out, the risks are great.
+
 3. **Location:**
+
     * A careful analysis of the location (by streets and districts) is required, perhaps there are some hidden reasons for low activity on the streets with one business
     * High competition on busier streets will require a longer ROI
