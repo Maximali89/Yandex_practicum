@@ -21,3 +21,9 @@
 * `date` — date of the order placement
 * `revenue` — order's revenue
 * `group` — the A / B test group that the order fell into
+
+`visitors.csv` **structure**
+
+* `date` — date
+* `group`— A/B test group
+* `visitors`— the number of users on the specified date in the specified A/B test group
