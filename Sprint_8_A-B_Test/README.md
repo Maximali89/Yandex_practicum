@@ -29,7 +29,7 @@ List of relevant hypotheses for testing (descending order of priority)
 3. Add two new channels to attract traffic, which will attract 30% more users.
 4. Display banners with up-to-date promotions and sales on the main page to increase conversion.
 
-**A/B test analysis
+**A/B test analysis**
 
 * The revenue for both groups grew steadily throughout the test.
 * The average bill of group B is growing steadily.
